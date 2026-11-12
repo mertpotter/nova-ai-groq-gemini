@@ -1,0 +1,12 @@
+{
+  "name": "nova-ai-groq-gemini",
+  "version": "3.0.0",
+  "private": true,
+  "description": "NOVA AI - Gemini ve Groq destekli sohbet",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
